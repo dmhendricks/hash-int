@@ -6,7 +6,7 @@
 
 # Hash Integer
 
-A PHP class to generate a short hash from an integer.
+A PHP class to generate an alphanumeric hash of specified length from an integer.
 
 ```
 composer require dmhendricks/hash-int
