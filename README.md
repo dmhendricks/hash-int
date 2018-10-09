@@ -1,6 +1,6 @@
 [![Release](https://img.shields.io/github/release/dmhendricks/hash-int.svg?style=flat-square)](https://github.com/dmhendricks/hash-int/releases)
 [![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square)](https://raw.githubusercontent.com/dmhendricks/hash-int/master/LICENSE)
-[![Downloads](https://img.shields.io/packagist/dt/dmhendricks/hash-int.svg?style=flat-square)](https://www.npmjs.com/package/file-icon-vectors?utm_source=github.com&utm_medium=referral&utm_content=button&utm_campaign=dmhendricks%2Fhash-int)
+[![Downloads](https://img.shields.io/packagist/dt/dmhendricks/hash-int.svg?style=flat-square)](https://packagist.org/packages/dmhendricks/hash-int?utm_source=github.com&utm_medium=referral&utm_content=button&utm_campaign=dmhendricks%2Fhash-int)
 [![Analytics](https://ga-beacon.appspot.com/UA-126205765-1/dmhendricks/hash-int?flat)](https://ga-beacon.appspot.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Fhash-int)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/dmhendricks/hash-int.svg?style=social)](https://twitter.com/danielhendricks)
 
