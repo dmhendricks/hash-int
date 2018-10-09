@@ -1,0 +1,21 @@
+{
+  "name": "dmhendricks/hash-int",
+  "description": "A PHP class to generate a short hash from an integer.",
+  "license": "MIT",
+  "homepage": "https://github.com/dmhendricks/hash-int",
+  "authors": [
+    {
+      "name": "Daniel M. Hendricks",
+      "homepage": "https://www.danhendricks.com",
+      "role": "Publisher"
+    }
+  ],
+  "require": {
+    "php": ">=4.0.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "CloudVerve\\": "src/"
+    }
+  }
+}
