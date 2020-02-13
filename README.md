@@ -16,7 +16,7 @@ composer require dmhendricks/hash-int
 ### Requirements
 
 - PHP 5.6 or higher
-- [BC Math](https://www.php.net/manual/en/book.bc.php): `apt install -y php7.x-bcmath`
+- [BC Math](https://www.php.net/manual/en/book.bc.php): `apt install php7.x-bcmath`
 
 ### Usage
 
